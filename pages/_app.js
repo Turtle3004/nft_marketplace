@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
           <Link href='/create-item'>
             <a className='mr-6 text-blue-500'>Sell Digital Asset</a>
           </Link>
-          <Link href='/my-assests'>
+          <Link href='/my-assets'>
             <a className='mr-6 text-blue-500'>My Digital Assets</a>
           </Link>
           <Link href='/creator-dashboard'>
